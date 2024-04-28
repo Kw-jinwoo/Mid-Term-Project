@@ -693,6 +693,11 @@ textarea {
     animation: wheel 1.3s infinite;
     -webkit-animation: wheel 1.3s infinite; }
 
+.videolink {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
 @keyframes wheel {
   to {
     opacity: 0;
